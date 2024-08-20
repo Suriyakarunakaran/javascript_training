@@ -1,2 +1,2 @@
 // javascript variables
-//suriya
+var suriya = 10;

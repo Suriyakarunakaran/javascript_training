@@ -1,4 +1,4 @@
 var s = ["Red", "Green", "White", "Black"];
-console.log(myColor.toString());
-console.log(myColor.join());
-console.log(myColor.join('+'));
+console.log(s.toString());
+console.log(s.join());
+console.log(s.join('+'));

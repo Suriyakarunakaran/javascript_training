@@ -1,9 +1,9 @@
 var a = 1234;
 var res = 0;
 
-while(a>0){
-    b = a%10;
-    res = res*10 + b;
-    a = Math.floor(a/10);
+for (var i =1; i<a;i++){
+    if(num%i==0){
+        res= res+i;
+    }
 }
 console.log(res);

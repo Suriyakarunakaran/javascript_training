@@ -1,0 +1,7 @@
+body{
+    background-color: black;
+}
+.sub_container{
+    display: flex;
+    justify-content: space-around;
+}
